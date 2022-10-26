@@ -5,7 +5,16 @@ div {
     font-style: normal;
     font-size: 26px;
     font-weight: bold;
-    width: 200px;
-    height: 200px;
+    width: 1200px;
+    height: 1200px;
     padding: 20px;
 }
+.baz {
+    color: red;
+}
+/*
+Specifity
+1. inline
+2. id
+3. class
+4. type */
